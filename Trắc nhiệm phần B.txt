@@ -1,0 +1,44 @@
+B
+1b
+2b
+3c
+4b
+5d
+6a
+7c
+8a,b,c
+9d
+10b
+11c
+12b
+13b
+14d
+15b
+16c
+17c
+18d
+19c
+20b
+Phần C
+C2 Bài 1:
+	1.
+while(n<20) 
+{cout<<n++<<endl;}
+2.
+for (int i = 1, i <= 8, ++i)
+{
+   cout << 1.0/i << endl;
+}
+3.
+int n = 10;
+   do{
+ 	      cout << 1.0/n ;
+                  n++; }
+               while (n < 20);
+4.
+for (int i=10; i<20; ) {
+   cout << i*i <<endl;
+   i--;
+}
+
+
